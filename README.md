@@ -10,5 +10,6 @@
 <h3> :information_source: Information </h3>
 <p> <strong>Subject:</strong> Object Oriented Programming 1 </p>
 <p> <strong> Course:</strong> Information Systems
+<p> <strong> Period:</strong> 3°
 <p> <strong> Institution: </strong>Federal University of Uberlândia
 
